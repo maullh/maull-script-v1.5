@@ -66,7 +66,7 @@ sudo ./install.sh
 ### Metode 2: Clone Repository
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/maull-script.git
+git clone https://github.com/maullh/maull-script.git
 cd maull-script
 
 # Jalankan installer
@@ -77,7 +77,7 @@ sudo ./install.sh
 ### Metode 3: Manual
 ```bash
 # Download script utama
-wget https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/maull-script/main/maull-script.sh
+wget https://raw.githubusercontent.com/maullh/maull-script/main/maull-script.sh
 
 # Buat executable dan install
 chmod +x maull-script.sh
@@ -87,7 +87,7 @@ sudo ./maull-script.sh install
 ### Metode 4: Jika Download Gagal
 ```bash
 # Download script alternatif
-wget https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/maull-script/main/download-script.sh
+wget https://raw.githubusercontent.com/maullh/maull-script/main/download-script.sh
 
 # Jalankan downloader
 chmod +x download-script.sh
