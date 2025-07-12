@@ -56,7 +56,7 @@ Maull-Script V1.5 adalah script otomatis untuk instalasi dan manajemen berbagai 
 ### Metode 1: Instalasi Langsung
 ```bash
 # Download script
-wget https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/maull-script/main/install.sh
+wget https://raw.githubusercontent.com/maullh/maull-script/main/install.sh
 
 # Jalankan installer
 chmod +x install.sh
